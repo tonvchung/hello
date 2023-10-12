@@ -11,8 +11,8 @@ paginate: 15
 paginate_path: "tonvcc:num"
 gems: [jekyll-paginate]
 links:
-  - name:         首页
-    url:          /
+  # - name:         首页
+  #   url:          /
     external:     false
 # ------------ CONFIGURABLE END ------------
 
