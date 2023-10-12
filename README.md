@@ -5,17 +5,17 @@
                 .::      .::.::   .::.::::: .:: .::     .:: .::   .::  .::.::::: .::
                 .::      .::.::   .::.:         .::    .::   .::  .::  .::.:        
                 .::::::::.::.:: .::    .::::   .:::   .::      .::  .::.::  .::::   
-                          Copyright (c) 2016-2018 liberxue
-                                 http://www.liberxue.com
+                          Copyright (c) 2016-2018 tonvcc
+                                 http://www.tonvcc.com
                            
-#### liberxue.github.io preview (demo) (http://www.liberxue.com)
+#### tonvcc.github.io preview (demo) (http://www.tonvcc.com)
 
 #### `Jekyll Themes`
 ----------
 [简体中文版帮助文档README](/ChinaREADME.md)
 #### ``Lightweight``  ``Minimalist``  ``Jekyll blog``
 
-#### The first step is to click [fork][https://github.com/liberxue/liberxue.github.io/fork]
+#### The first step is to click [fork][https://github.com/tonvcc/tonvcc.github.io/fork]
 #### The second step is to modify the _config.yml in URL for your domain name
 
 #### OK all right, it's that simple
@@ -31,40 +31,40 @@
 - [x] Modify the _config.yml of paginate for how many pages you want to page
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/Liberxue/liberxue.github.io.svg)](https://starchart.cc/Liberxue/liberxue.github.io)
+[![Stargazers over time](https://starchart.cc/tonvcc/tonvcc.github.io.svg)](https://starchart.cc/tonvcc/tonvcc.github.io)
 
-![uiliberxue](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/ui.jpg) 
+![uitonvcc](https://raw.githubusercontent.com/tonvcc/tonvcc.github.io/master/thumbnails/ui.jpg) 
 
- ![archives](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/archives.png) 
+ ![archives](https://raw.githubusercontent.com/tonvcc/tonvcc.github.io/master/thumbnails/archives.png) 
 
- ![blog](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/blog.png) 
+ ![blog](https://raw.githubusercontent.com/tonvcc/tonvcc.github.io/master/thumbnails/blog.png) 
 
- ![tags](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/tags.png) 
+ ![tags](https://raw.githubusercontent.com/tonvcc/tonvcc.github.io/master/thumbnails/tags.png) 
 
-  ![404](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/404.png) 
+  ![404](https://raw.githubusercontent.com/tonvcc/tonvcc.github.io/master/thumbnails/404.png) 
 
  ----------
-![blog JSON search](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/01.gif) 
+![blog JSON search](https://raw.githubusercontent.com/tonvcc/tonvcc.github.io/master/thumbnails/01.gif) 
 
-#### 1.First step Click[fork](https://github.com/Liberxue/liberxue.github.io#fork-destination-box)
+#### 1.First step Click[fork](https://github.com/tonvcc/tonvcc.github.io#fork-destination-box)
  
 ----
 
-![fork](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/02.gif)
+![fork](https://raw.githubusercontent.com/tonvcc/tonvcc.github.io/master/thumbnails/02.gif)
   
   
 
 
 #### 2. modify _config.yml url URL for your domain
 
-![modify _config.yml url URL for your domain](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/04.gif)
+![modify _config.yml url URL for your domain](https://raw.githubusercontent.com/tonvcc/tonvcc.github.io/master/thumbnails/04.gif)
   
 
 
 
-* [Issues](https://github.com/Liberxue/liberxue.github.io/issues)
+* [Issues](https://github.com/tonvcc/tonvcc.github.io/issues)
  
-* [Email](mailto:liberxue@gmail.com)
+* [Email](mailto:tonvcc@gmail.com)
  
-* [Twitter](https://twitter.com/liberxue).
+* [Twitter](https://twitter.com/tonvcc).
 
