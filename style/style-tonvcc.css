@@ -535,7 +535,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     font-size: 22px;
     line-height: 22px;
     position: absolute;
-    margin: 10px;
+    margin-left: 10px;
     top: 30%;
     display: block;
     width: auto;
@@ -887,7 +887,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 
 .post-list-item-container .item-label {
     position: relative;
-    height: 130px;
+    /* height: 130px; */
     padding: 25px 20px 40px;
     background-color: #fff;
 }
@@ -1854,7 +1854,7 @@ pre code::after {
     position: relative;
     z-index: 1;
     margin-top: 0;
-    padding-bottom: 50px;
+    /* padding-bottom: 50px; */
     background-color: #fff;
 }
 
@@ -2038,6 +2038,7 @@ pre code::after {
 
     .main-content {
         margin: 0 auto;
+        width: 100%;
     }
 
     .footer-meta .meta-item {
@@ -2093,7 +2094,7 @@ pre code::after {
     }
 
     .navbar-search {
-        padding: 0 35px 0 0;
+        padding: 25px 35px 0 0;
     }
 
     .navbar-search form {
@@ -2208,6 +2209,7 @@ pre code::after {
 
     .main-content {
         margin: 0 auto;
+        width: 100%;
     }
 
     .post-onelist-item-container {
