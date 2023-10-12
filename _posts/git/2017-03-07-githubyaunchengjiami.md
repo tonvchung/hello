@@ -1,7 +1,7 @@
 ---
 layout: blog
 istop: true
-title: "GitHub当作私密的版本控制系统远端版本库私有化哈"
+title: "GitHub作私密的版本控制系统远端版本库"
 background-image: https://tonv.cc/style/images/github.png
 date:  2017-03-07
 category: git
