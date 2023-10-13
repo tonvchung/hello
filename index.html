@@ -4,21 +4,23 @@
 <div class="main-content index-page clearfix ">
 	<div class="post-lists">
 		<div class="post-lists-body">
-      {% for posts in paginator.posts %}
-		<div class="post-list-item">
+			{% for posts in paginator.posts %}
+			<div class="post-list-item">
 				<div class="post-list-item-container">
-					 <div class="item-thumb  bg-{{posts.background }}" style="background-image:url('{{posts.background-image }}');"></div>
-          	<a href="{{ posts.url }}">
-	             <div class="item-desc">
-		<p>{{ posts.content | strip_html | strip_newlines | truncate: 100 }}</p>
+					<div class="item-thumb  bg-{{posts.background }}"
+						style="background-image:url('{{posts.background-image }}');"></div>
+					<a href="{{ posts.url }}">
+						<div class="item-desc">
+							<p>{{ posts.content | strip_html | strip_newlines | truncate: 100 }}</p>
 						</div>
 					</a>
 					<div class="item-label">
-						<div class="item-title"><a href="{{ posts.url }}" title="访问 {{ posts.title }}">{{ posts.title }}</a></div>
+						<div class="item-title"><a href="{{ posts.url }}" title="访问 {{ posts.title }}">{{ posts.title
+								}}</a></div>
 					</div>
 				</div>
-      </div>
-       {% endfor %}
+			</div>
+			{% endfor %}
+		</div>
 	</div>
-	</div>
-  {% include pagination.html %}
+	{% include pagination.html %}
