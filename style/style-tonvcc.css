@@ -2204,6 +2204,7 @@ pre code::after {
 
     .footer {
         padding-bottom: 0;
+        margin-top: 0;
     }
 
     .navbar-menu {
