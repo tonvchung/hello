@@ -536,7 +536,8 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     line-height: 22px;
     position: absolute;
     margin-left: 10px;
-    top: 30%;
+    padding-top: 32px;
+    /*top: 30%;*/
     display: block;
     width: auto;
     max-width: 50%;
@@ -661,7 +662,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     display: inline-block;
     width: 20px;
     padding: 0 40px 0 0;
-    cursor: pointer;
+    /*cursor: pointer;*/
 }
 
 .navbar-search:hover > form, .navbar-search:active > form, .navbar-search:focus > form {
@@ -883,6 +884,10 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     background-color: #f68e5f;
     -webkit-box-shadow: none;
     box-shadow: none;
+}
+
+.item-title {
+    min-height: 60px;
 }
 
 .post-list-item-container .item-label {
@@ -1853,7 +1858,7 @@ pre code::after {
 .footer {
     position: relative;
     z-index: 1;
-    margin-top: 0;
+    margin-top: 80px;
     /* padding-bottom: 50px; */
     background-color: #fff;
 }
@@ -1892,7 +1897,7 @@ pre code::after {
 .footer-meta .footer-container {
     width: 100%;
     max-width: 1024px;
-    height: 250px;
+    /*height: 250px;*/
     margin: 0 auto;
 }
 
