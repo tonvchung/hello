@@ -537,8 +537,8 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     line-height: 22px;
     position: absolute;
     margin-left: 10px;
-    padding-top: 32px;
-    /*top: 30%;*/
+    /*padding-top: 32px;*/
+    top: 29%;
     display: block;
     width: auto;
     max-width: 50%;
