@@ -1054,7 +1054,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 .post-header-thumb {
     position: relative;
     height: 233px;
-    background: #f7f7f733;
+    /*background: #f7f7f733;*/
 }
 
 .post-header-thumb-op {
