@@ -1859,7 +1859,7 @@ pre code::after {
     position: relative;
     z-index: 1;
     margin-top: 80px;
-    /* padding-bottom: 50px; */
+    padding-bottom: 50px;
     background-color: #fff;
 }
 
@@ -1988,6 +1988,7 @@ pre code::after {
 }
 
 @media (max-width: 880px) {
+
     .index-page {
         padding: 90px 0 0;
     }
@@ -2094,6 +2095,11 @@ pre code::after {
 }
 
 @media (max-width: 650px) {
+
+    .footer {
+        padding-bottom: 0;
+    }
+
     .navbar-menu {
         display: none;
     }
@@ -2172,6 +2178,7 @@ pre code::after {
 }
 
 @media (max-width: 580px) {
+
     .navbar-search form {
         width: 150px;
     }

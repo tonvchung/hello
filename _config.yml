@@ -8,7 +8,7 @@ google_analytics:
 share:            true 
 # 分页
 paginate: 15
-paginate_path: "tonvcc:num"
+paginate_path: "page=num"
 gems: [jekyll-paginate]
 links:
   # - name:         首页
