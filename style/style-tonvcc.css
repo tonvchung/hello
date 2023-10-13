@@ -40,6 +40,7 @@ body {
     font-size: 14px;
     line-height: 1.8;
     margin: 0 auto;
+    padding-right: 50px;
     color: #313131;
     text-rendering: geometricPrecision;
     -webkit-font-smoothing: antialiased;
@@ -1964,6 +1965,11 @@ pre code::after {
    #reponse
    ========================================================================== */
 @media only  screen and (max-width:980px) {
+
+    body {
+        padding-right: 0;
+    }
+
  .directory-content {
       display: none;
      }
