@@ -2,14 +2,14 @@
 layout: blog
 banana: true
 category: AI绘画
-title:  Stable Diffusion Ai绘画工具整合包资源 SD网盘分享
+title:  Stable Diffusion Ai绘画工具资源整合包 SD网盘分享
 date:   2024-03-26 20:06:06
 background-image: https://tonv.cc/style/images/sd01.png
 tags:
 - Stable Diffusion
 - Ai绘画
 - SD
-- 文生图
+- 文生图Ai工具
 ---
 #  背景信息
 要说当今绘画圈最大的新秀，那妥妥的就Stable Diffution，V4升级版无需安装，直接解压就能用（在此要感谢秋葉aaaki大佬的分享）比之前推送的更加智能、快速和简单，有多简单呢？这么说吧，之前的版本需要初中生级别现在的V4加强版小学生也能上手。
@@ -66,12 +66,13 @@ Stable Diffusion 功能包括文本转图像、图像转图像、图形插图、
 ![Stable Diffution](https://tonv.cc/style/images/sd09.png)
 
 打开后的Stable Diffusion Web UI界面。
-![Stable Diffution](https://tonv.cc/style/images/sd010.png)
+
+![Stable Diffution](https://tonv.cc/style/images/sd10.png)
 
 使用的时候，输入正面提示词和反面提示词（非必须），其他的选项使用默认的就行，然后点击 生成，稍微等待一会，就可以得到生成的图片了。
 
 Stable Diffusion Web UI 界面原本是英文的，我们只需要在其启动器的高级设置中启用云端页面汉化设置，就可以完成Stable Diffusion Web UI 汉化。
 
-关注公众号发送：sdai 获取Stable Diffusion网盘资源下载地址
+<center>关注公众号发送：**sdai** 获取Stable Diffusion网盘资源下载地址</center>
 
 ![8k壁纸社](https://tonv.cc/style/images/sd11.jpg)
