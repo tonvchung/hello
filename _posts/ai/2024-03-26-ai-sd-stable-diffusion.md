@@ -74,4 +74,4 @@ Stable Diffusion Web UI 界面原本是英文的，我们只需要在其启动�
 
 关注公众号发送：sdai 获取Stable Diffusion网盘资源下载地址
 
-![8k壁纸社](https://tonv.cc/style/images/sd11.png)
+![8k壁纸社](https://tonv.cc/style/images/sd11.jpg)
