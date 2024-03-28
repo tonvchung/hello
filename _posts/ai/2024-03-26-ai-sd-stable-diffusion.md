@@ -73,6 +73,6 @@ Stable Diffusion 功能包括文本转图像、图像转图像、图形插图、
 
 Stable Diffusion Web UI 界面原本是英文的，我们只需要在其启动器的高级设置中启用云端页面汉化设置，就可以完成Stable Diffusion Web UI 汉化。
 
-<center>关注公众号发送：**sdai** 获取Stable Diffusion网盘资源下载地址</center>
+<center>关注公众号发送：__sdai__ 获取Stable Diffusion网盘资源下载地址</center>
 
 ![8k壁纸社](https://tonv.cc/style/images/sd11.jpg)
