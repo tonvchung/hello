@@ -4,7 +4,7 @@ banana: true
 category: AI绘画
 title:  Stable Diffusion Ai绘画工具资源整合包 SD网盘分享
 date:   2024-03-26 20:06:06
-background-image: https://tonv.cc/style/images/sd01.png
+background-image: https://tonv.cc/style/images/sd01.jpg
 tags:
 - Stable Diffusion
 - Ai绘画
@@ -14,7 +14,7 @@ tags:
 #  背景信息
 要说当今绘画圈最大的新秀，那妥妥的就Stable Diffution，V4升级版无需安装，直接解压就能用（在此要感谢秋葉aaaki大佬的分享）比之前推送的更加智能、快速和简单，有多简单呢？这么说吧，之前的版本需要初中生级别现在的V4加强版小学生也能上手。
 
-![Stable Diffution](https://tonv.cc/style/images/sd01.png)
+![Stable Diffution](https://tonv.cc/style/images/sd01.jpg)
 
 #  Stable Diffusion 是什么？
 Stable Diffusion（简称SD）是一种生成式人工智能，于2022年发布，主要用于根据文本描述生成详细图像，也可用于其他任务，如图像的修补、扩展和通过文本提示指导图像到图像的转换。除图像外，您还可以使用该模型创建视频和动画。
